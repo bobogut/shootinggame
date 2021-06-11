@@ -76,7 +76,7 @@ function gameOpeningScreen() {
   textAlign(CENTER, CENTER)
   fill(235, 255, 255)
   text("PRESS ENTER TO START THE GAME", width / 2, height / 2 - 100)
-  text("PRESS HOW TO PLAY", width / 2, height / 2)
+  text("PRESS E TO SEE INSTRUCTIONS", width / 2, height / 2)
 }
 
 function gameInstructionScreen() {
